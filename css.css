@@ -1,0 +1,33 @@
+p{
+	color: rgb(0, 0, 0);
+	font-size: 250%;
+	font-style: italic;
+	font-weight: bold;
+    text-align: center;
+	margin-top: 250px;
+	border-bottom : 10px solid rgba(124, 4, 114,0.8) ;
+	width: 200px center ;
+	box-shadow: 10px 10px 10px  rgba(199, 105, 191,0.9);
+
+}
+.btn{
+	margin-top: 200px;
+	border-radius: 300px;
+	border-color: black;
+    padding: 1rem 2rem;
+	  text-transform: uppercase;
+}
+.btn-danger:hover {
+	background-color: pink;
+
+}
+.btn-primary{
+	margin-left: 100px;
+}
+.btn-primary:hover{
+	background-color:rgb(184, 230, 255);
+}
+ body {
+	background-image: url(menycorona.jpg);
+	background-size: cover;
+}

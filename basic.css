@@ -1,0 +1,56 @@
+p{ color: rgb(255, 255, 255);
+	font-size: 2rem ; 
+	font-style: italic;
+	font-weight: bold;
+	font-family: fantasy;
+}
+div,li{ color: rgb(255, 255, 255);
+		margin-top: 15px;
+		flex-wrap: center;
+			font-family: cursive;
+	}
+span{ color: rgb(255, 255, 255);
+	font-size: 2em;
+		
+}
+.t{ color: rgb(255, 255, 255);
+	font-size: 1.5em;
+	margin-top: 20px;
+		flex-wrap: center;
+			font-family: cursive;
+
+
+}
+img{
+	width: 20rem;
+	height: 20rem;
+	float:right;
+	
+}
+.btn{
+    margin-top: 200px;
+	 	border-radius: 300px;
+	border-color: black;
+    padding: 1rem 2rem;
+	  text-transform: uppercase;
+}
+
+.btn-danger:hover {
+	background-color: pink;
+
+}
+
+body
+{
+
+	background-image: url(lap.jpg);
+	background-size: cover;
+}
+.doc{
+	margin-top: 10rem;
+	margin-left: 10rem;
+	height: 25rem;
+}
+.cor{	width: 25rem;
+
+}
